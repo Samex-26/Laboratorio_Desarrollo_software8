@@ -1,0 +1,25 @@
+codigo,producto,cantidad,precio,valorTotal
+P001,Teclado,25,18.5,462.5
+P002,Mouse,40,9.99,399.6
+P003,Monitor 24 pulgadas,12,145.0,1740.0
+P004,Laptop,8,750.0,6000.0
+P005,Impresora,15,120.0,1800.0
+P006,Webcam,30,35.5,1065.0
+P007,Auriculares,50,22.0,1100.0
+P008,Memoria USB 64GB,100,12.75,1275.0
+P009,Disco SSD 1TB,8,95.0,760.0
+P010,Router WiFi,18,60.0,1080.0
+P011,Cargador universal,45,15.25,686.25
+P012,Base refrigerante,14,28.9,404.6
+P013,Camara web Pro,7,210.0,1470.0
+P014,Microfono,22,55.4,1218.8
+P015,Parlante,33,40.0,1320.0
+P016,Tableta,11,320.0,3520.0
+P017,Lapiz optico,60,25.0,1500.0
+P018,Hub USB,28,19.99,559.72
+P019,Cable HDMI,75,8.5,637.5
+P020,Adaptador USB-C,5,14.0,70.0
+P021,Silla gamer,9,180.0,1620.0
+P022,Escritorio,13,150.0,1950.0
+P023,Lampara LED,26,32.5,845.0
+P024,Regleta,35,11.2,392.0

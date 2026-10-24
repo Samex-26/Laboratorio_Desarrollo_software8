@@ -1,0 +1,8 @@
+Resumen del grupo - Problema 1 (Estudiantes)
+=============================================
+Total de estudiantes : 24
+Promedio general     : 75.18
+Nota mayor           : 95.2
+Nota menor           : 52.3
+Aprobados            : 15
+Reprobados           : 9

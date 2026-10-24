@@ -1,0 +1,218 @@
+[
+  {
+    "cedula": "8-123-456",
+    "nombre": "Ana Rodríguez",
+    "parcial1": 85.0,
+    "parcial2": 90.0,
+    "proyecto": 88.0,
+    "nota_final": 87.7,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-234-567",
+    "nombre": "Luis Pérez",
+    "parcial1": 70.0,
+    "parcial2": 65.0,
+    "proyecto": 72.0,
+    "nota_final": 69.3,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "8-345-678",
+    "nombre": "María González",
+    "parcial1": 92.0,
+    "parcial2": 88.0,
+    "proyecto": 95.0,
+    "nota_final": 92.0,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-456-789",
+    "nombre": "Carlos Sánchez",
+    "parcial1": 60.0,
+    "parcial2": 55.0,
+    "proyecto": 58.0,
+    "nota_final": 57.7,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "8-567-890",
+    "nombre": "José Martínez",
+    "parcial1": 78.0,
+    "parcial2": 82.0,
+    "proyecto": 75.0,
+    "nota_final": 78.0,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-678-901",
+    "nombre": "Laura Castillo",
+    "parcial1": 71.0,
+    "parcial2": 73.0,
+    "proyecto": 70.0,
+    "nota_final": 71.2,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-789-012",
+    "nombre": "Pedro Ramírez",
+    "parcial1": 88.0,
+    "parcial2": 90.0,
+    "proyecto": 92.0,
+    "nota_final": 90.2,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-890-123",
+    "nombre": "Sofía Herrera",
+    "parcial1": 55.0,
+    "parcial2": 60.0,
+    "proyecto": 58.0,
+    "nota_final": 57.7,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "8-901-234",
+    "nombre": "Miguel Torres",
+    "parcial1": 80.0,
+    "parcial2": 75.0,
+    "proyecto": 85.0,
+    "nota_final": 80.5,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "8-012-345",
+    "nombre": "Valentina Flores",
+    "parcial1": 68.0,
+    "parcial2": 70.0,
+    "proyecto": 69.0,
+    "nota_final": 69.0,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "4-123-456",
+    "nombre": "Diego Vargas",
+    "parcial1": 95.0,
+    "parcial2": 93.0,
+    "proyecto": 97.0,
+    "nota_final": 95.2,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "4-234-567",
+    "nombre": "Daniela Ríos",
+    "parcial1": 66.0,
+    "parcial2": 62.0,
+    "proyecto": 64.0,
+    "nota_final": 64.0,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "4-345-678",
+    "nombre": "Andrés Morales",
+    "parcial1": 84.0,
+    "parcial2": 86.0,
+    "proyecto": 80.0,
+    "nota_final": 83.0,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "4-456-789",
+    "nombre": "Camila Ortiz",
+    "parcial1": 72.0,
+    "parcial2": 68.0,
+    "proyecto": 75.0,
+    "nota_final": 72.0,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "4-567-890",
+    "nombre": "Ricardo Jiménez",
+    "parcial1": 50.0,
+    "parcial2": 55.0,
+    "proyecto": 52.0,
+    "nota_final": 52.3,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "2-123-456",
+    "nombre": "Isabella Cruz",
+    "parcial1": 89.0,
+    "parcial2": 91.0,
+    "proyecto": 93.0,
+    "nota_final": 91.2,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "2-234-567",
+    "nombre": "Fernando Reyes",
+    "parcial1": 74.0,
+    "parcial2": 76.0,
+    "proyecto": 78.0,
+    "nota_final": 76.2,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "2-345-678",
+    "nombre": "Gabriela Medina",
+    "parcial1": 63.0,
+    "parcial2": 65.0,
+    "proyecto": 60.0,
+    "nota_final": 62.4,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "3-123-456",
+    "nombre": "Javier Castro",
+    "parcial1": 82.0,
+    "parcial2": 79.0,
+    "proyecto": 84.0,
+    "nota_final": 81.9,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "3-234-567",
+    "nombre": "Paula Navarro",
+    "parcial1": 69.0,
+    "parcial2": 72.0,
+    "proyecto": 70.0,
+    "nota_final": 70.3,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "9-123-456",
+    "nombre": "Roberto Silva",
+    "parcial1": 77.0,
+    "parcial2": 80.0,
+    "proyecto": 82.0,
+    "nota_final": 79.9,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "9-234-567",
+    "nombre": "Natalia Pineda",
+    "parcial1": 90.0,
+    "parcial2": 87.0,
+    "proyecto": 89.0,
+    "nota_final": 88.7,
+    "condicion": "APROBADO"
+  },
+  {
+    "cedula": "1-123-456",
+    "nombre": "Sergio Aguilar",
+    "parcial1": 58.0,
+    "parcial2": 62.0,
+    "proyecto": 60.0,
+    "nota_final": 60.0,
+    "condicion": "REPROBADO"
+  },
+  {
+    "cedula": "1-234-567",
+    "nombre": "Verónica Salazar",
+    "parcial1": 73.0,
+    "parcial2": 75.0,
+    "proyecto": 74.0,
+    "nota_final": 74.0,
+    "condicion": "APROBADO"
+  }
+]

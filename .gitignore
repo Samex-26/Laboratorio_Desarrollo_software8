@@ -1,0 +1,7 @@
+# Artefactos de la herramienta graphify (no forman parte del entregable)
+graphify-out/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+requirements.txt

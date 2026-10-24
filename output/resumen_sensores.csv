@@ -1,0 +1,5 @@
+sensor,ubicacion,mediciones,temperaturaPromedio,temperaturaMaxima,temperaturaMinima,humedadPromedio
+S01,Laboratorio,6,34.35,36.1,32.5,45.833333333333336
+S02,Almacen,6,26.816666666666666,28.2,25.8,85.33333333333333
+S03,Oficina,6,33.916666666666664,35.0,32.9,83.5
+S04,Laboratorio,6,23.78333333333333,26.0,21.8,50.833333333333336
